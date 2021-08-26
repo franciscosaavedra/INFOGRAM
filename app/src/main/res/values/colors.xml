@@ -3,4 +3,10 @@
     <color name="colorPrimary">#2196F3</color>
     <color name="colorPrimaryDark">#1976D2</color>
     <color name="colorAccent">#FF4081</color>
+
+    <color name="editText_textColorHint">#FFFFFF</color>
+    <color name="editText_textColorPrimary">#FFFFFF</color>
+    <color name="editText_colorControlNormal">#FFFFFF</color>
+    <color name="editText_colorControlActivated">#FFFFFF</color>
+    <color name="button_textColor">#FFFFFF</color>
 </resources>

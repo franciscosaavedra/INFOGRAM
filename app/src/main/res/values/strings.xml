@@ -2,4 +2,5 @@
     <string name="app_name">INFOGRAM</string>
     <string name="nombre_de_usuario">Nombre de usuario</string>
     <string name="contrase_a">Contraseña</string>
+    <string name="button_text">LOGIN</string>
 </resources>
