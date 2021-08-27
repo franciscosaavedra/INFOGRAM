@@ -7,4 +7,5 @@
     <string name="usuario">Usuario</string>
     <string name="confirme_contraseña">Confirme contraseña</string>
     <string name="button_text_create_account">ÚNETE</string>
+    <string name="title_crear_cuenta">Crear cuenta</string>
 </resources>
