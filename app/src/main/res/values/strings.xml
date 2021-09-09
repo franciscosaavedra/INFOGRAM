@@ -11,4 +11,8 @@
     <string name="confirme_contraseña">Confirme contraseña</string>
     <string name="button_text_create_account">ÚNETE</string>
     <string name="title_crear_cuenta">Crear cuenta</string>
+    <string name="carlos_vargas_cardview">Carlos Vargas</string>
+    <string name="hace_cardview">Hace</string>
+    <string name="dias_cardview">" 4 dias"</string>
+    <string name="me_gusta_cardview">10 me gusta</string>
 </resources>
