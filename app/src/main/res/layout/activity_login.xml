@@ -73,7 +73,8 @@
                     android:layout_height="wrap_content"
                     android:text="@string/button_text"
                     android:layout_marginTop="@dimen/login_marginTop"
-                    android:theme="@style/RaiseButtonDark"/>
+                    android:theme="@style/RaiseButtonDark"
+                    android:onClick="login"/>
 
                 <RelativeLayout
                     android:layout_width="match_parent"
