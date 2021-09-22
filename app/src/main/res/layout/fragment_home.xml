@@ -8,15 +8,17 @@
 
     <include layout="@layout/appbar_toolbar"/>
 
-    <LinearLayout
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycler_view"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:orientation="vertical"
-        app:layout_behavior="com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior">
+        app:layout_behavior="com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior"
+        android:paddingTop="@dimen/padding_card"
+        android:paddingLeft="@dimen/padding_card"
+        android:paddingRight="@dimen/padding_card">
 
-        <include layout="@layout/cardview_image"/>
-        <include layout="@layout/cardview_image"/>
-    </LinearLayout>
+    </androidx.recyclerview.widget.RecyclerView>
+
 
 <com.google.android.material.floatingactionbutton.FloatingActionButton
     android:layout_width="wrap_content"
