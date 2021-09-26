@@ -15,4 +15,6 @@
     <dimen name="textSize_title_image_detail">16sp</dimen>
     <dimen name="paddingTop_title_image_detail">30dp</dimen>
     <dimen name="marginEnd_fab_image_detail">30dp</dimen>
+    <dimen name="paddindTop_linearLayout_profile">200dp</dimen>
+    <dimen name="marginLeft_username_appbar_profile">70dp</dimen>
 </resources>
